@@ -1,7 +1,7 @@
 # Raindrops
 Made with [Processing](https://processing.org/).
 
-[Raindrops Effect Video](raindrops.mp4)
+![Raindrops Effect GIF](raindrops.gif)
 
 ## Running
 Install [Processing](https://processing.org/) and then open the file `raindrops/raindrops.pde` with it. Press the Play icon to run the file.
